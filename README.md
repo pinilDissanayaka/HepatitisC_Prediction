@@ -1,6 +1,6 @@
 # HepatitisC_Prediction
 
-## About Dataset¶
+## About Dataset
 ### Context
 The data set contains laboratory values of blood donors and Hepatitis C patients and demographic values like age. The data was obtained from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/HCV+data
 
